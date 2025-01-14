@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import "./Login.css"
 import logo from "../../assets/logo.svg"
 import { login, signup } from '../../firebase'
-import netflix_spinner from '../../assets/netflix.gif'
+import netflix_spinner from '../../assets/Netflix.gif';
 
 const Login = () => {
 
