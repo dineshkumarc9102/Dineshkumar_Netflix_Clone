@@ -1,8 +1,22 @@
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Netflix clone brings you an expansive library of **movies and trending content**, all with real-time updates and reliable performance. With the **TMDB API**, you get access to an extensive database of movies, ensuring a diverse and engaging viewing experience. **Firebase integration** provides secure user authentication. 🚀🍿
 
-Currently, two official plugins are available:
+## 🌟 Features
+- 🎥 **Extensive Movie Library**
+- 🔥 **Trending Content Updates**
+- 🔐 **Secure Authentication with Firebase**
+- 🖥️ **Modern & Responsive UI**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3
+- **Backend:** Firebase Database
+- **API:** TMDB API
+- **Notifications:** React Toastify
+- **Hosting:** Netlify
+
+## 🚀 Live Demo
+🔗 **[Netflix Clone Live](https://dineshkumarc-cloneflix.netlify.app/)**
+
+---
+**Stream your favorite movies with ease! 🚀🎬**
